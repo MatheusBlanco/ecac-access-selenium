@@ -1,0 +1,11 @@
+{
+  "pattern": "https://certificado.sso.acesso.gov.br/",
+  "filter": {
+    "ISSUER": { "CN": "AC SOLUTI Multipla v5", "C": "BR", "O": "ICP-Brasil" },
+    "SUBJECT": {
+      "CN": "METODOLOGIA STARTUP LTDA:50123935000133",
+      "C": "BR",
+      "O": "ICP-Brasil"
+    }
+  }
+}
